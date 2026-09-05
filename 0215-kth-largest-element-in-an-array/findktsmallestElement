@@ -1,0 +1,11 @@
+import java.utill.*;
+public int findKthSmallestElement(int arr[] , int k){
+    PriorityQueue<Interger> pq = new PriorityQueue<Collection.reverseOrder>() ;
+    for(int ele : arr){
+        pq.add(ele) ;
+        if(pq.size() > k){
+            pq.remove() ;
+        }
+    }
+    return pq.peek() ;
+}
