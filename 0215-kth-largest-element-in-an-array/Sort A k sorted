@@ -1,0 +1,17 @@
+class Solution {
+    public boolean isKSortedArray(int[] arr, int k) {
+        // code here
+        ArrayList<Integer> arr = new ArrayList<>() ;
+        
+        PriorityQueue<Integer> Pq = new PriorityQueue<>() ;
+        for(int ele : arr){
+            pq.add(ele) ;
+            if(pq.size() > k){
+               arr.add(pq.remove()) ; 
+            }
+        }
+        while(pq.size() > 0){
+            arr.add(pq.remove()) ;
+        }
+    }
+}
