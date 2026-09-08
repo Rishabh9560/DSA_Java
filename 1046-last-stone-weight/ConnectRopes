@@ -1,0 +1,16 @@
+public int connectRopes(int arr[]){
+PriorityQueue<Integer> pq = new PriorityQueue<>() ;
+for(int ele : arr){
+  pq.add(ele) ;
+}
+int sum = 0 ;
+while(pq.size() > 0){
+  int x = pq.remove() ;
+  int y= pq.remove() ;
+  
+  pq.add(x+y);
+  sum += x+y ;
+
+
+}
+return sum ;
