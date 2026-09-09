@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Rishabh9560/DSA_Java/tree/master/0724-find-pivot-index) |
 | [1046-last-stone-weight](https://github.com/Rishabh9560/DSA_Java/tree/master/1046-last-stone-weight) |
 | [1480-running-sum-of-1d-array](https://github.com/Rishabh9560/DSA_Java/tree/master/1480-running-sum-of-1d-array) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Rishabh9560/DSA_Java/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Rishabh9560/DSA_Java/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Rishabh9560/DSA_Java/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Rishabh9560/DSA_Java/tree/master/1480-running-sum-of-1d-array) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Rishabh9560/DSA_Java/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Design
 |  |
 | ------- |
