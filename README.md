@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Rishabh9560/DSA_Java/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/Rishabh9560/DSA_Java/tree/master/0724-find-pivot-index) |
 | [1046-last-stone-weight](https://github.com/Rishabh9560/DSA_Java/tree/master/1046-last-stone-weight) |
+| [1109-corporate-flight-bookings](https://github.com/Rishabh9560/DSA_Java/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/Rishabh9560/DSA_Java/tree/master/1480-running-sum-of-1d-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Rishabh9560/DSA_Java/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Rishabh9560/DSA_Java/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Rishabh9560/DSA_Java/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Rishabh9560/DSA_Java/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Rishabh9560/DSA_Java/tree/master/0724-find-pivot-index) |
+| [1109-corporate-flight-bookings](https://github.com/Rishabh9560/DSA_Java/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/Rishabh9560/DSA_Java/tree/master/1480-running-sum-of-1d-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Rishabh9560/DSA_Java/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Rishabh9560/DSA_Java/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
