@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/Rishabh9560/DSA_Java/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/Rishabh9560/DSA_Java/tree/master/1480-running-sum-of-1d-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Rishabh9560/DSA_Java/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Rishabh9560/DSA_Java/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Rishabh9560/DSA_Java/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Design
 |  |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Rishabh9560/DSA_Java/tree/master/2389-longest-subsequence-with-limited-sum) |
+## String
+|  |
+| ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Rishabh9560/DSA_Java/tree/master/2483-minimum-penalty-for-a-shop) |
 <!---LeetCode Topics End-->
