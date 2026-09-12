@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishabh9560/DSA_Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rishabh9560/DSA_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabh9560/DSA_Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Rishabh9560/DSA_Java/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Rishabh9560/DSA_Java/tree/master/0283-move-zeroes) |
@@ -65,11 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rishabh9560/DSA_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/Rishabh9560/DSA_Java/tree/master/0658-find-k-closest-elements) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Rishabh9560/DSA_Java/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rishabh9560/DSA_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/Rishabh9560/DSA_Java/tree/master/0658-find-k-closest-elements) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rishabh9560/DSA_Java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Hash Table
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rishabh9560/DSA_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Rishabh9560/DSA_Java/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Rishabh9560/DSA_Java/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishabh9560/DSA_Java/tree/master/0560-subarray-sum-equals-k) |
