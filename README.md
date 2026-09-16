@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Rishabh9560/DSA_Java/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Rishabh9560/DSA_Java/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Rishabh9560/DSA_Java/tree/master/0258-add-digits) |
 | [2235-add-two-integers](https://github.com/Rishabh9560/DSA_Java/tree/master/2235-add-two-integers) |
 ## Simulation
@@ -133,4 +134,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Rishabh9560/DSA_Java/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Rishabh9560/DSA_Java/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Rishabh9560/DSA_Java/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
