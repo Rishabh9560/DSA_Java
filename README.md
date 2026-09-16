@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Rishabh9560/DSA_Java/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/Rishabh9560/DSA_Java/tree/master/0258-add-digits) |
 | [2235-add-two-integers](https://github.com/Rishabh9560/DSA_Java/tree/master/2235-add-two-integers) |
 ## Simulation
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rishabh9560/DSA_Java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Rishabh9560/DSA_Java/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
