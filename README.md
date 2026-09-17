@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rishabh9560/DSA_Java/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishabh9560/DSA_Java/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/Rishabh9560/DSA_Java/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/Rishabh9560/DSA_Java/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Rishabh9560/DSA_Java/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Rishabh9560/DSA_Java/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishabh9560/DSA_Java/tree/master/1004-max-consecutive-ones-iii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rishabh9560/DSA_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/Rishabh9560/DSA_Java/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/Rishabh9560/DSA_Java/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishabh9560/DSA_Java/tree/master/1004-max-consecutive-ones-iii) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Rishabh9560/DSA_Java/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Sliding Window
