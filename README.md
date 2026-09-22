@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishabh9560/DSA_Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Rishabh9560/DSA_Java/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Rishabh9560/DSA_Java/tree/master/0283-move-zeroes) |
 | [0658-find-k-closest-elements](https://github.com/Rishabh9560/DSA_Java/tree/master/0658-find-k-closest-elements) |
 ## Divide and Conquer
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Rishabh9560/DSA_Java/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/Rishabh9560/DSA_Java/tree/master/0257-binary-tree-paths) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Rishabh9560/DSA_Java/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Dynamic Programming
