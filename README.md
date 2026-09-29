@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishabh9560/DSA_Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Rishabh9560/DSA_Java/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/Rishabh9560/DSA_Java/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/Rishabh9560/DSA_Java/tree/master/0283-move-zeroes) |
 | [0658-find-k-closest-elements](https://github.com/Rishabh9560/DSA_Java/tree/master/0658-find-k-closest-elements) |
 ## Divide and Conquer
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Rishabh9560/DSA_Java/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Rishabh9560/DSA_Java/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishabh9560/DSA_Java/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Rishabh9560/DSA_Java/tree/master/0904-fruit-into-baskets) |
@@ -221,4 +223,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Rishabh9560/DSA_Java/tree/master/0257-binary-tree-paths) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Rishabh9560/DSA_Java/tree/master/0142-linked-list-cycle-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Rishabh9560/DSA_Java/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
