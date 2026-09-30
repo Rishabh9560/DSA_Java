@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishabh9560/DSA_Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Rishabh9560/DSA_Java/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Rishabh9560/DSA_Java/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/Rishabh9560/DSA_Java/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Rishabh9560/DSA_Java/tree/master/0283-move-zeroes) |
 | [0658-find-k-closest-elements](https://github.com/Rishabh9560/DSA_Java/tree/master/0658-find-k-closest-elements) |
 ## Divide and Conquer
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Rishabh9560/DSA_Java/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Rishabh9560/DSA_Java/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Rishabh9560/DSA_Java/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Rishabh9560/DSA_Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rishabh9560/DSA_Java/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Rishabh9560/DSA_Java/tree/master/0509-fibonacci-number) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Rishabh9560/DSA_Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rishabh9560/DSA_Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rishabh9560/DSA_Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Rishabh9560/DSA_Java/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Rishabh9560/DSA_Java/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/Rishabh9560/DSA_Java/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
