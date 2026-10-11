@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Rishabh9560/DSA_Java/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Rishabh9560/DSA_Java/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/Rishabh9560/DSA_Java/tree/master/0257-binary-tree-paths) |
+| [0459-repeated-substring-pattern](https://github.com/Rishabh9560/DSA_Java/tree/master/0459-repeated-substring-pattern) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Rishabh9560/DSA_Java/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Dynamic Programming
 |  |
@@ -247,4 +248,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Rishabh9560/DSA_Java/tree/master/0142-linked-list-cycle-ii) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Rishabh9560/DSA_Java/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Rishabh9560/DSA_Java/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Rishabh9560/DSA_Java/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
