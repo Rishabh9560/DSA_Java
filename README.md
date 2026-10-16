@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rishabh9560/DSA_Java/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Rishabh9560/DSA_Java/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Rishabh9560/DSA_Java/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Rishabh9560/DSA_Java/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishabh9560/DSA_Java/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/Rishabh9560/DSA_Java/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Rishabh9560/DSA_Java/tree/master/0704-binary-search) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Rishabh9560/DSA_Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Rishabh9560/DSA_Java/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Rishabh9560/DSA_Java/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Rishabh9560/DSA_Java/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/Rishabh9560/DSA_Java/tree/master/0658-find-k-closest-elements) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rishabh9560/DSA_Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabh9560/DSA_Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rishabh9560/DSA_Java/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Rishabh9560/DSA_Java/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/Rishabh9560/DSA_Java/tree/master/0658-find-k-closest-elements) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Rishabh9560/DSA_Java/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Heap (Priority Queue)
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rishabh9560/DSA_Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Rishabh9560/DSA_Java/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rishabh9560/DSA_Java/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/Rishabh9560/DSA_Java/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/Rishabh9560/DSA_Java/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Rishabh9560/DSA_Java/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishabh9560/DSA_Java/tree/master/1004-max-consecutive-ones-iii) |
@@ -110,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Rishabh9560/DSA_Java/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rishabh9560/DSA_Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Rishabh9560/DSA_Java/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Rishabh9560/DSA_Java/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishabh9560/DSA_Java/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Rishabh9560/DSA_Java/tree/master/0904-fruit-into-baskets) |
 ## Bucket Sort
