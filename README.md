@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabh9560/DSA_Java/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Rishabh9560/DSA_Java/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Rishabh9560/DSA_Java/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Rishabh9560/DSA_Java/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/Rishabh9560/DSA_Java/tree/master/0658-find-k-closest-elements) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Rishabh9560/DSA_Java/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rishabh9560/DSA_Java/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/Rishabh9560/DSA_Java/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Rishabh9560/DSA_Java/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Rishabh9560/DSA_Java/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishabh9560/DSA_Java/tree/master/0560-subarray-sum-equals-k) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Rishabh9560/DSA_Java/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Rishabh9560/DSA_Java/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Rishabh9560/DSA_Java/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Rishabh9560/DSA_Java/tree/master/0257-binary-tree-paths) |
 | [0459-repeated-substring-pattern](https://github.com/Rishabh9560/DSA_Java/tree/master/0459-repeated-substring-pattern) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Rishabh9560/DSA_Java/tree/master/2483-minimum-penalty-for-a-shop) |
