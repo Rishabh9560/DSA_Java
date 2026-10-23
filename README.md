@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Rishabh9560/DSA_Java/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Rishabh9560/DSA_Java/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Rishabh9560/DSA_Java/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/Rishabh9560/DSA_Java/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Rishabh9560/DSA_Java/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Rishabh9560/DSA_Java/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Rishabh9560/DSA_Java/tree/master/0326-power-of-three) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Rishabh9560/DSA_Java/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rishabh9560/DSA_Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Rishabh9560/DSA_Java/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Rishabh9560/DSA_Java/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rishabh9560/DSA_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabh9560/DSA_Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Rishabh9560/DSA_Java/tree/master/0238-product-of-array-except-self) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Rishabh9560/DSA_Java/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Rishabh9560/DSA_Java/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rishabh9560/DSA_Java/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Rishabh9560/DSA_Java/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Rishabh9560/DSA_Java/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Rishabh9560/DSA_Java/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Rishabh9560/DSA_Java/tree/master/0349-intersection-of-two-arrays) |
