@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rishabh9560/DSA_Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Rishabh9560/DSA_Java/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Rishabh9560/DSA_Java/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Rishabh9560/DSA_Java/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rishabh9560/DSA_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabh9560/DSA_Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Rishabh9560/DSA_Java/tree/master/0238-product-of-array-except-self) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/Rishabh9560/DSA_Java/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Rishabh9560/DSA_Java/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rishabh9560/DSA_Java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Recursion
